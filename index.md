@@ -24,7 +24,7 @@ Save the Children International</br>
 December 2018
 
 ## Contents
-1. Introduction 
+1. [Introduction](#Introduction)
 2. Safety
     - Electricity Kills!
     - Fire Risk!
