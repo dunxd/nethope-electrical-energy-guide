@@ -22,3 +22,57 @@ Mark Hawkins<br>
 Global Humanitarian Technology Manager<br>
 Save the Children International</br>
 December 2018
+
+## Contents
+1. Introduction 
+2. Safety
+    - Electricity Kills!
+    - Fire Risk!
+    - Working practices
+3. Power Supplies
+    - Sources
+    - Single Phase
+    - Three Phase
+    - American Standards
+4. Power Distribution
+    - Circuit Design
+    - Grounding
+    - Quality of parts
+5. Site Planning
+    - Utility Power
+    - Stored Energy
+    - Selecting the correct generator
+    - The energy planning toolkit
+        - Generator Sizing Tool
+    - Cable sizing tool
+6. Generator Management
+    - Daily routines
+    - Weekly Routines
+    - Monitoring
+    - Servicing
+    - Spares & Consumables
+    - Change Management
+7. Solar Energy
+    - Planning
+    - Typical system design
+    - Lightning Protection
+    - The Load
+    - Rugged design
+    - Change Management
+    - Maintenance and sustainability
+
+## Safety
+This chapter highlights some of the risk experienced in NGO sites every day. Whilst there are a few extreme examples of bad practice or poor design mentioned, the majority of the problems illustrated have been collected from a wide range of sites over the past fifteen years.
+### Electricity Kills!
+In the aid sector, the provision of a safe and efficient electrical system is not treated as a priority. As a result, severe risk of electrocution will exist in the office, the bathroom and the bedroom. There have been reports from the field where team members have received electric shocks whilst operating equipment. In one severe case, an aid work was killed in one agency when a team member was electrocuted in a bathroom
+
+Here are some examples of defects which are presenting danger to people;
+
+### Fire Risk!
+
+### Working Practices
+
+### Conclusion
+
+## Power Supplies
+
