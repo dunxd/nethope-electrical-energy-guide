@@ -1,8 +1,11 @@
 # Electricity Distribution, Generation and Renewable Energy Guide
 ## v 1.02
 ![Nethope Logo](i/NethopeLogo.png)
+
 ## Introduction
+
 ![Power pylon in Africa](i/PowerMast.png)
+
 Whether it’s an office, clinic, school or the residence, electricity is an essential utility. Unlike developed countries, access to clean, reliable and safe power in the global south can be difficult and in many cases expensive. 
 
 Access to a reliable power supplies is essential to humanitarian programming. Power is needed for lighting, cold chain, heating, communications and to run IT systems. The provisioning of safe power is also very challenging as materials in some places will be of poor quality. Lack of skills can lead to poorly installed systems which pose a serious risk to equipment and people. 
