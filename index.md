@@ -70,8 +70,8 @@ Here are some examples of defects which are presenting danger to people;
 
  | Example | Description |
  | --- | --- | 
- | ![Exposed wall socket](i/) | A wall socket was missing in a bedroom leaving two bare wires exposed. A visitor to the room not aware of this cable could have easily touched it and may have received an electric shock. |
- | ![Dangerous powerline](i/) | <p>A power line from the national grid comes over the wall. The power cables are not insulated. Under normal circumstances this would not be an issue as grid cables arrive at roof level well out of the reach of people.</p><p>In this example, the cables pass within centimetres of a roof ladder. There are two significant risks here</p><ul><li>People ascending the wall ladder to deal with communications equipment is very likely to come into contact with the live cable.</li><li>If the ladder comes into contact with the cable, it becomes electrified. The bottom of this fixed ladder is close to a busy passageway.</li></ul> |
+ | ![Exposed wall socket](i/DangerousWallSocket.png) | A wall socket was missing in a bedroom leaving two bare wires exposed. A visitor to the room not aware of this cable could have easily touched it and may have received an electric shock. |
+ | ![Dangerous powerline](i/DangerousPowerline.png) | <p>A power line from the national grid comes over the wall. The power cables are not insulated. Under normal circumstances this would not be an issue as grid cables arrive at roof level well out of the reach of people.</p><p>In this example, the cables pass within centimetres of a roof ladder. There are two significant risks here</p><ul><li>People ascending the wall ladder to deal with communications equipment is very likely to come into contact with the live cable.</li><li>If the ladder comes into contact with the cable, it becomes electrified. The bottom of this fixed ladder is close to a busy passageway.</li></ul> |
 
 
 ### Fire Risk!
