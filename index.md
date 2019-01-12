@@ -25,7 +25,7 @@ December 2018
 
 ## Contents
 1. [Introduction](#Introduction)
-2. [Safety](Safety)
+2. [Safety](#Safety)
     - [Electricity Kills!](#electricity-kills)
     - [Fire Risk!](#fire-risk)
     - [Working practices](#working-practices)
@@ -34,32 +34,32 @@ December 2018
     - [Single Phase](#single-phase)
     - [Three Phase](#three-phase)
     - [American Standards](#american-standards)
-4. Power Distribution
-    - Circuit Design
-    - Grounding
-    - Quality of parts
-5. Site Planning
-    - Utility Power
-    - Stored Energy
-    - Selecting the correct generator
-    - The energy planning toolkit
-        - Generator Sizing Tool
-    - Cable sizing tool
-6. Generator Management
-    - Daily routines
-    - Weekly Routines
-    - Monitoring
-    - Servicing
-    - Spares & Consumables
-    - Change Management
-7. Solar Energy
-    - Planning
-    - Typical system design
-    - Lightning Protection
-    - The Load
-    - Rugged design
-    - Change Management
-    - Maintenance and sustainability
+4. [Power Distribution](#power-distribution)
+    - [Circuit Design](#circuit-design)
+    - [Grounding](#grounding)
+    - [Quality of parts](#quality-of-parts)
+5. [Site Planning](#site-planning)
+    - [Utility Power](#utility-power)
+    - [Stored Energy](#stored-energy)
+    - [Selecting the correct generator](#selecting-the-correct-generator)
+    - [The energy planning toolkit](#the-energy-planning-toolkit)
+        - [Generator Sizing Tool](#generator-sizing-tool)
+        - [Cable sizing tool](#cable-sizing-tool)
+6. [Generator Management](#generator-management)
+    - [Daily routines](#daily-routines)
+    - [Weekly Routines](#weekly-routines)
+    - [Monitoring](#monitoring)
+    - [Servicing](#servicing)
+    - [Spares and Consumables](#spares-and-consumables)
+    - [Change Management](#change-management)
+7. [Solar Energy](#solar-energy)
+    - [Planning](#planning)
+    - [Typical system design](#typical-system-design)
+    - [Lightning Protection](#lightning-protection)
+    - [The Load](#the-load)
+    - [Rugged design](#rugged-design)
+    - [Change Management](#change-management-2)
+    - [Maintenance and sustainability](#maintenance-and-sustainability)
 
 ## Safety
 This chapter highlights some of the risk experienced in NGO sites every day. Whilst there are a few extreme examples of bad practice or poor design mentioned, the majority of the problems illustrated have been collected from a wide range of sites over the past fifteen years.
@@ -485,7 +485,7 @@ Every generator needs to be serviced when a specified number of engine hours hav
 
 For some generators, two types of service may be required. For example, a basic service would consist of a change of oil filter, oil and air filter. A more advanced service could be based on the basic service with a few additional items to be changed such as gear oil and fuel filters. 
 
-#### Spares & Consumables
+#### Spares and Consumables
 Only genuine engine spares are to be used on generators. Stock levels should be sufficient enough at each site to ensure that all engines are serviced when the servicing date is due. In places where supplies are difficult to get, a larger number of consumables should be kept at each site so that stocks will not run out of replacement lead times are long.  
 
 #### Change Management 
@@ -713,7 +713,7 @@ If a solar system is not built ruggedly, it will not last. When designing a syst
 
 * Any cables which pass through roof spaces should be protected by steel pipes to prevent rodents from eating the cable insulation. 
 
-### Change Management
+### Change Management 2
 A strict change management regime must be put in place to prevent unauthorised and unqualified people from modifying the solar system. Some of the measures taken to develop a rugged design will go some way to prevent unauthorised modifications at the site were the system is in use. 
 
 If there is a requirement to add more electrical loads to the system, it should be done in a controlled way as any increase will probably require the addition of new batteries and panels. Controllers and cables may also need upgrading. 
