@@ -67,13 +67,9 @@ This chapter highlights some of the risk experienced in NGO sites every day. Whi
 In the aid sector, the provision of a safe and efficient electrical system is not treated as a priority. As a result, severe risk of electrocution will exist in the office, the bathroom and the bedroom. There have been reports from the field where team members have received electric shocks whilst operating equipment. In one severe case, an aid work was killed in one agency when a team member was electrocuted in a bathroom
 
 Here are some examples of defects which are presenting danger to people;
+
  | ![Exposed wall socket](i/) | A wall socket was missing in a bedroom leaving two bare wires exposed. A visitor to the room not aware of this cable could have easily touched it and may have received an electric shock. |
- | ![Dangerous powerline](i/) | A power line from the national grid comes over the wall. The power cables are not insulated. Under normal circumstances this would not be an issue as grid cables arrive at roof level well out of the reach of people. 
-
-In this example, the cables pass within centimetres of a roof ladder. There are two significant risks here – 
-
-- People ascending the wall ladder to deal with communications equipment is very likely to come into contact with the live cable. 
-- If the ladder comes into contact with the cable, it becomes electrified. The bottom of this fixed ladder is close to a busy passageway. |
+ | ![Dangerous powerline](i/) | <p>A power line from the national grid comes over the wall. The power cables are not insulated. Under normal circumstances this would not be an issue as grid cables arrive at roof level well out of the reach of people.</p><p>In this example, the cables pass within centimetres of a roof ladder. There are two significant risks here</p><ul><li>People ascending the wall ladder to deal with communications equipment is very likely to come into contact with the live cable.</li><li>If the ladder comes into contact with the cable, it becomes electrified. The bottom of this fixed ladder is close to a busy passageway.</li></ul> |
 
 
 ### Fire Risk!
