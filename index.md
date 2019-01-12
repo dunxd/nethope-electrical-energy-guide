@@ -1,5 +1,5 @@
 # Electricity Distribution, Generation and Renewable Energy Guide
-## v 1.02
+## v 2.0
 ![Nethope Logo](i/NethopeLogo.png)
 
 ## Introduction
