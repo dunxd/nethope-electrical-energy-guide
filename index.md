@@ -517,7 +517,7 @@ A frequent approach used in solar system design is to include an inverter which 
 
 Most appliances such as lights, satellite phones, radios and mobile will run on 12v). It’s even possible to run a laptop on 12V DC with a DC/DC converter.  A 12V only solar design will be more energy efficient and possibly cheaper that the systems which rely upon inverters. The concept of the 12V circuit is not new. This approach has been used in offshore boats for many decades. 
 
-#### Lights; Watts or Lumens?
+#### Lights: Watts or Lumens?
 Lighting technologies have improved over the years. The lighting output from a standard 100W filament bulb is equal to the light output from a 25W energy saving bulb. The new LED bulbs have brought energy consumption down to single figures. As technology develops further, it is very likely that LED bulbs become more efficient.  Due to the rapid change in technologies, some organisations are beginning to specify lighting requirements in Lumens which is a measure of lighting intensity over a specified area. Solar engineers will still need to know the wattage of each bulb as Watts is the measure used to calculate the size of solar system.   
 
 Light intensity requirements may differ depending on the area which needs to be illuminated. A waiting room for example can be provided with less light than an office. A medical consulting room will require more intense light so that patients can be examined.  
