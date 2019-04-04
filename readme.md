@@ -123,7 +123,7 @@ In a three phase circuit, the outputs from the three lines are not synchronised.
 
 The diagram below demonstrates clearly the relationship between the lines. 
 
-![Three phase output sine waves](ThreePhaseOutputSine.png)
+![Three phase output sine waves](i/ThreePhaseOutputSine.png)
 
 If measurements are taken between any of the lines and neutral, the maximum voltage reached is 220V AC. This is shown by the red dotted line. 
 
@@ -150,7 +150,7 @@ So far, we have focused on providing electricity which is stable from a number o
 ### Circuit Design
 The diagram below shows an example of a typical site which has access to two supplies (electricity from a local utility company and a back-up generator)
 
-![Typical site circuit design](i/TypicalSiteCircuitDesign)
+![Typical site circuit design](i/TypicalSiteCircuitDesign.png)
 
 Three phase power is used in the example which is fairly typical for medium to large offices. In smaller buildings (Typically residential settings), single phase is used. The following notes explains further about each key feature of the circuit. 
 
@@ -686,8 +686,9 @@ The following example illustrates the impact of adding a large load to a modest 
 **Cables**: When selecting cables for a system, size matters! If cables are too thin, there will be energy losses and in extreme cases, a risk of fire if cables are overloaded. In low voltage DC circuits, current will be higher than in a 220V AC circuit thus thicker cables are normally required. When designing a solar system, it’s important to calculate the load in various parts of the circuit and specify the correct cable size. The table below shows what sizes are recommended for different loads. AWG is the standard used in the USA and Caribbean, mm2 is the standard used by Europe, Africa and Asia. 
 
 #### Cable Sizing Table
+
  | mm<sup>2</sup> | AWG | Maximum current loading |
- | --- | --- | --- | --- |
+ | --- | --- | --- |
  | 1 | 20 | 7A |
  | 1 | 18 | 10 A |
  | 1.5 | 16 | 15 A |
